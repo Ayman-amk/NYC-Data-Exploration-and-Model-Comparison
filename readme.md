@@ -66,4 +66,4 @@ This repository contains Python code for Exploratory Data Analysis (EDA) on a NY
 
 ### Contributors:
 
-- @Ayman-amk.
+- [@Ayman-amk](https://github.com/Ayman-amk/)
